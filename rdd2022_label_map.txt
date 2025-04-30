@@ -1,0 +1,13 @@
+0, background
+1, D00
+2, D01
+3, D10
+4, D11
+5, D20
+6, D40
+7, D43
+8, D44
+9, Repair
+10, Block crack
+11, D50
+12, D0w0

@@ -1,0 +1,19 @@
+path: dataset/
+train: images/train
+val: images/val
+test: images/test
+names:
+- background
+- D00
+- D01
+- D10
+- D11
+- D20
+- D40
+- D43
+- D44
+- Repair
+- Block crack
+- D50
+- D0w0
+nc: 13
